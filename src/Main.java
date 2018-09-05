@@ -8,6 +8,7 @@ public class Main {
         LineReader lineReader = new LineReader(
                 "/home/mahdi/IdeaProjects/TestIO/readme.txt",
                 "/home/mahdi/IdeaProjects/TestIO/readme2.txt");
-        lineReader.showReverseLine();
+//        lineReader.showReverseLine();
+        lineReader.showReversLine2();
     }
 }
